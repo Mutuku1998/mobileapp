@@ -2,12 +2,11 @@ import { View,Text } from "react-native-web";
 
 const Home = () =>{
 
-    return(
-
+    return (
         <View>
-            <Text>
-            HOME
-            </Text>
+          <Text>HOME</Text>
         </View>
-    )
+      );
 }
+
+export default Home;

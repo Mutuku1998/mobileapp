@@ -7,7 +7,7 @@ export default function App(){
 
   return(
     <View className="flex-1 items-center justify-center bg-white">
-      <Text>HOME</Text>
+      <Text className ="text-3xl">HOME</Text>
 
       <StatusBar style="auto"/>
       <Link href="/profile" style ={{color:'blue'}}>Go To profile</Link>
